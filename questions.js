@@ -55,17 +55,59 @@ let questions = [
       "4"
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
-  //   {
-  //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
-  //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
-  //   ]
-  // },
+  {
+    numb: 6,
+    question: "What is the sun mainly made from?",
+    answer: "Gas",
+    options: [
+      "Liquid lava",
+      "Rock",
+      "Molten iron",
+      "Gas"
+    ]
+  },
+  {
+    numb: 7,
+    question: "Which planet do the moons Oberon and Titania belong to?",
+    answer: "Uranus",
+    options: [
+      "Earth",
+      "Neptune",
+      "Uranus",
+      "Saturn"
+    ]
+  },
+  {
+    numb: 8,
+    question: "Which planet takes 165 years to orbit the Sun?",
+    answer: "Neptune",
+    options: [
+      "Uranus",
+      "Neptune",
+      "Jupiter",
+      "Saturn"
+    ]
+  },
+  {
+    numb: 9,
+    question: "Which planet is also known as The Evening Star?",
+    answer: "Venus",
+    options: [
+      "Mars",
+      "Mercury",
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    numb: 10,
+    question: "Which planet has the Borealis Basin?",
+    answer: "5",
+    options: [
+      "Mercury",
+      "Mars",
+      "Venus",
+      "Earth"
+    ]
+  },
 ];
